@@ -1,0 +1,11 @@
+.shared-layout {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    z-index: 1000;
+}
+
+.main-content {
+    padding: 0 15px;
+    flex: 1;
+}
