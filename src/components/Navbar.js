@@ -20,7 +20,7 @@ const Navbar = () => {
                 </div>
                  {/* Navigation links that toggle visibility based on showMenu state */}
                 <div className={`${showMenu ? 'show' : 'hide'}`}>
-                    <NavLink to='/' className={({ isActive }) => (isActive ? 'nav-link active' : 'nav-link')}>Domů</NavLink>
+                    <NavLink to='/' className={({ isActive }) => (isActive ? 'nav-link active' : 'nav-link')}>Home</NavLink>
                     <NavLink to='/news' className={({ isActive }) => (isActive ? 'nav-link active' : 'nav-link')}>News</NavLink>
                     <NavLink to='/about' className={({ isActive }) => (isActive ? 'nav-link active' : 'nav-link')}>About</NavLink>
                 </div>
