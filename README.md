@@ -12,9 +12,9 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/de2d1776-fe06-4624-9934-5382d4b89b56/deploy-status)](https://app.netlify.com/sites/responsive-navbar-modern/deploys) <br />
 
 <!-- Demo Link -->
-<p>
+<h3>
   <a href="https://responsive-navbar-modern.netlify.app/">Modern Responsive Navbar</a>:point_left: <br />
-</p>
+</h3>
 
 # :rocket: Getting Started with Create React App
 
